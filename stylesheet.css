@@ -1,9 +1,25 @@
 .column {
+    background: blue;
     width: 300px;
-    float: right;
+    float: left;
+}
+
+.column p {
+    color: yellow
 }
 
 .img {
     width: 30%;
+    padding: 10%;
+}
+body {
+    background-color:orange;
+}
+h2 {
+    background:red;
 }
 
+.sunshine p {
+    color: yellow;
+    font-weight: 500;
+}
