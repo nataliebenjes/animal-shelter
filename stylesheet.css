@@ -1,10 +1,10 @@
 .column {
     background: blue;
-    width: 30%;
+    width: 13%;
     float: left;
     border:rgb(137, 161, 206);
-    border-width: 10px;
-    padding: 30px;
+    border-width: 1%;
+    padding: 6%;
 }
 
 .column p {
