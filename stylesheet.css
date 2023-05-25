@@ -1,7 +1,10 @@
 .column {
     background: blue;
-    width: 300px;
+    width: 30%;
     float: left;
+    border:rgb(137, 161, 206);
+    border-width: 10px;
+    padding: 30px;
 }
 
 .column p {
@@ -10,7 +13,9 @@
 
 .img {
     width: 30%;
-    padding: 10%;
+    margin: auto;
+    height: auto;
+    display: block;
 }
 body {
     background-color:orange;
@@ -19,7 +24,3 @@ h2 {
     background:red;
 }
 
-.sunshine p {
-    color: yellow;
-    font-weight: 500;
-}
